@@ -1,0 +1,25 @@
+                      Time and Space complexity
+
+
+        | Order | Time Complexity | Name         |
+        | ----- | --------------- | ------------ |
+        | 1     | ( O(1) )        | Constant     |
+        | 2     | ( O(log n) )   | Logarithmic  |
+        | 3     | ( O(sqrt{n}) ) | Square Root  |
+        | 4     | ( O(n) )        | Linear       |
+        | 5     | ( O(nlog n) ) | Linearithmic |
+        | 6     | ( O(n^2) )      | Quadratic    |
+        | 7     | ( O(n^3) )      | Cubic        |
+        | 8     | ( O(2^n) )      | Exponential  |
+        | 9     | ( O(n!) )       | Factorial    |
+
+
+
+
+
+
+
+
+
+
+

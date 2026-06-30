@@ -1,0 +1,94 @@
+basis
+├── HelloWorld.java
+├── Variables.java
+├── DataTypes.java
+├── InputOutput.java
+├── Operators.java
+└── TypeCasting.java
+
+conditions
+├── IfElse.java
+├── ElseIf.java
+├── NestedIf.java
+├── SwitchCase.java
+├── EvenOdd.java
+├── LargestOfTwo.java
+├── LargestOfThree.java
+├── LeapYear.java
+├── PositiveNegativeZero.java
+└── GradeCalculator.java
+
+loops
+├── ForLoop.java
+├── WhileLoop.java
+├── DoWhileLoop.java
+├── BreakDemo.java
+├── ContinueDemo.java
+├── SumN.java
+├── Factorial.java
+├── PrimeNumber.java
+├── Fibonacci.java
+├── ReverseNumber.java
+├── PalindromeNumber.java
+└── CountDigits.java
+
+patterns
+├── Pattern1.java
+├── Pattern2.java
+├── Pattern3.java
+├── NumberPattern.java
+├── ReverseNumberPattern.java
+├── Pyramid.java
+├── InvertedPyramid.java
+
+functions
+├── HelloFunction.java
+├── ParameterDemo.java
+├── ReturnDemo.java
+├── AddNumbers.java
+├── MaxNumber.java
+├── EvenOddFunction.java
+├── PrimeFunction.java
+├── FactorialFunction.java
+├── SumRangeFunction.java
+├── ReverseNumberFunction.java
+├── MethodOverloading.java
+└── ScopeDemo.java
+✓ Method creation
+✓ Method calling
+✓ Parameters
+✓ Arguments
+✓ Return values
+✓ void methods
+✓ int return
+✓ boolean return
+✓ Method overloading
+✓ Variable scope
+
+
+Arrays
+├── arraysbassis.java
+├── intputoutput.java
+├── problem1.java
+├── sumofthearrays.java
+├── maxelementinarray.java
+├── Arrayofotherdatatypes.java
+├── PassingarraytoMethod.java
+├── shalloecopyDeepcopy.java
+├── SoretArrayBuiltIn.java
+├── Problem2.java
+├── LinearSearch.java
+├── TwoSum.java
+├── SecondMaxelement.java
+├── Reverse_array.java
+├── for_eachloop.java
+├── Rotate_array.java
+├── MissinginaArray.java
+├── SegregateOsand1s.java
+├── Wave_Array.java
+└── AeeayListbasis.java
+
+
+
+
+
