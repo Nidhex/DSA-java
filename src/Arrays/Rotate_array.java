@@ -19,7 +19,7 @@ public class Rotate_array
         int[] arr = {10, 20, 30, 40, 50, 60, 70};
         int d = 3;
         int n = arr.length;
-        d = d%n;
+
         /// method 1
 //        reverse(arr,0,n-1);
 //        reverse(arr,0,n-d-1);
