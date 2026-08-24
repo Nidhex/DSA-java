@@ -30,9 +30,8 @@ for(int ele: arr )
 }
 
 }
+}
 
-
-    }
 
 
 
