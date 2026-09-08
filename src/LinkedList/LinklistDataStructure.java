@@ -9,6 +9,7 @@ class Node {
     }
 }
 
+
 class Linkedlist {    // user-defined data structure
 
     Node head; // null
@@ -22,7 +23,6 @@ class Linkedlist {    // user-defined data structure
         }
         return  head.val;
     }
-
     int  search(int val)  {
         if(head==null) return  -1;
         Node temp = head;
@@ -35,7 +35,6 @@ class Linkedlist {    // user-defined data structure
         }
         return -1;
     }
-
     void addAtHead(int val) {
 
         Node temp = new Node(val);
@@ -50,7 +49,6 @@ class Linkedlist {    // user-defined data structure
 
         size++;
     }
-
     void deleteAthead() {
 
         if (head == null) {
@@ -65,7 +63,6 @@ class Linkedlist {    // user-defined data structure
             tail = null;
         }
     }
-
     void addAttail(int val) {
 
         Node temp = new Node(val);
@@ -80,7 +77,6 @@ class Linkedlist {    // user-defined data structure
 
         size++;
     }
-
     void display() {
 
         if (head == null) {
@@ -168,7 +164,7 @@ public class LinklistDataStructure {
 
         ll.insert(40,2);
     ll.display();
-        System.out.println(ll.get(3));
+    System.out.println(ll.get(3));
 
     }
 }

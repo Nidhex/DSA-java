@@ -16,6 +16,8 @@ public class arraysbassis {
 //        x[3]=89;
 //        System.out.println(x[3]);
 
+
+
         int[] arr= new int [4]; // 4 size ka array | 0 to 3
          arr[0] =12;
          arr[1] =62;
