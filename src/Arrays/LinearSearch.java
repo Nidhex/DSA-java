@@ -13,7 +13,6 @@ public class LinearSearch
             System.out.print("Enter element: ");
             arr[i] = sc.nextInt();
         }
-
         return arr;
     }
 

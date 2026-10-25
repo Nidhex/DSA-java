@@ -20,8 +20,6 @@ public class Problem2
 
     }
 
-
-
     static  void print(int []arr)
     {
         for (int i = 0; i <arr.length;i++)

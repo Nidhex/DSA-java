@@ -35,9 +35,6 @@ public class Rotate_array
             System.out.print(ele+" ");
         }
 
-
-
-
         }
 
     }

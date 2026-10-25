@@ -11,7 +11,6 @@ public class SecondMaxelement {
                 max = arr[i];
 
             }
-
         }
         for (int j = 0; j < arr.length; j++) {
             if (arr[j] > second_max && arr[j]!=max) {

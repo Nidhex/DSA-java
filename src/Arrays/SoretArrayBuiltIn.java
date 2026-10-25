@@ -10,7 +10,6 @@ public class SoretArrayBuiltIn
         }
         System.out.println();
     }
-
     static void main(String[] args)
     {
     // sort = ascending order
